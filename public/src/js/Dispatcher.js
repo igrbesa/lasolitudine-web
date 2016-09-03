@@ -31,3 +31,4 @@ export default assign(new Dispatcher(), {
     });
   }
 });
+
